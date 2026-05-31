@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on scalable backend projects like a URL Shortener, Event Booking System, and Real-Time Chat Application<br><br>👯 I’m looking to collaborate on Full Stack Development, Backend Engineering, and Open Source Projects<br><br>🤝 I’m looking for help with Distributed Systems, System Design, and scalable backend architectures<br><br>🌱 I’m currently learning Redis, WebSockets, System Design, Docker, and Advanced Backend Development<br><br>💬 Ask me about React.js, Node.js, REST APIs, MongoDB, Java, Python, SQL, and Machine Learning<br><br>⚡ Fun fact: I enjoy building real-world applications that combine scalable backend systems with clean UI/UX
-
+Full Stack Developer & AI/ML Student passionate about building scalable backend systems, real-time applications, and impactful software solutions.Currently exploring System Design, Distributed Systems, and Backend Engineering while building projects with React, Node.js, Java, Python, Redis, and MongoDB.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ananya J C) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aananyajc@gmail.com) 
